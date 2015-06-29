@@ -1,0 +1,22 @@
+{
+  "name": "signal-emitter",
+  "version": "0.0.0",
+  "description": "EventEmitter-like signals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "events",
+    "event-emitter",
+    "signal",
+    "pubsub",
+    "observer",
+    "messaging",
+    "dispatch",
+    "emitter",
+    "dispatcher"
+  ],
+  "author": "Jason Karns <jason@karns.name> (http://jason.karns.name/)",
+  "license": "MIT"
+}
