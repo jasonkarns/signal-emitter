@@ -1,6 +1,6 @@
 {
   "name": "signal-emitter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "EventEmitter-like signals",
   "author": "Jason Karns <jason@karns.name> (http://jason.karns.name/)",
   "homepage": "https://github.com/jasonkarns/signal-emitter#readme",
