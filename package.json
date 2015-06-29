@@ -2,10 +2,19 @@
   "name": "signal-emitter",
   "version": "0.0.0",
   "description": "EventEmitter-like signals",
-  "main": "index.js",
+  "author": "Jason Karns <jason@karns.name> (http://jason.karns.name/)",
+  "homepage": "https://github.com/jasonkarns/signal-emitter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonkarns/signal-emitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonkarns/signal-emitter/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "index.js",
   "keywords": [
     "events",
     "event-emitter",
@@ -17,6 +26,5 @@
     "emitter",
     "dispatcher"
   ],
-  "author": "Jason Karns <jason@karns.name> (http://jason.karns.name/)",
   "license": "MIT"
 }
